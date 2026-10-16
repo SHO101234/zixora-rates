@@ -1,1 +1,87 @@
-{"date": "16-10-2026", "fx": [{"buy": 4530.0, "code": "USD", "name": "United State", "sell": 4630.0}, {"buy": 5010.0, "code": "EUR", "name": "European Union", "sell": 5150.0}, {"buy": 3485.0, "code": "SGD", "name": "Singapore", "sell": 3580.0}, {"buy": 1094.0, "code": "MYR", "name": "Malaysia", "sell": 1124.0}, {"buy": 667.0, "code": "CNY", "name": "China", "sell": 686.0}, {"buy": 133.33, "code": "THB", "name": "Thailand", "sell": 136.99}, {"buy": 28.27, "code": "JPY", "name": "Japan", "sell": 29.04}], "note": "16-10-2026 Morning board (posted 09:23 AM Yangon), transcribed from the ရွှေလာငွေလာ (Shwe Lar Ngwe Lar) FB board image, captioned '16.10.2026-မနက်ပိုင်း နိုင်ငံခြားငွေလဲနှုန်းများ', Source: Myanmar market price. Cross-checked: Mingalar News 9:01 AM infographic (same MMP source) agrees on USD/THB/JPY/MYR exactly; Sun & Moon Int'l Money Transfer 16.10.2026 board agrees on USD/SGD/MYR/THB/JPY/CNY buys. Change pills vs 15-10 Evening: USD +5/+5, EUR -75/-35, SGD -60/-35, MYR -14.23/-5.75, CNY -15.51/-10.4, THB -1.90/-1.49, JPY -0.58/-0.31. Spot 4170.7 USD/oz (thegoldprice.net, updated 03:30 UTC). YGEA MeeLin: no source published a မီးလင်း price today - carried forward from live file (0.0).", "prev": {"CNY": {"buy": 682.51, "sell": 696.4}, "EUR": {"buy": 5085.0, "sell": 5185.0}, "JPY": {"buy": 28.85, "sell": 29.35}, "MYR": {"buy": 1108.23, "sell": 1129.75}, "SGD": {"buy": 3545.0, "sell": 3615.0}, "THB": {"buy": 135.23, "sell": 138.48}, "USD": {"buy": 4525.0, "sell": 4625.0}}, "session": "Morning", "spot": 4181.8, "spotTime": "06:00 PM", "updated": "09:23 AM", "weekly_close_date": null, "weekly_close_price": null, "weekly_open_date": null, "weekly_open_price": null, "ygea_meelin": 0.0}
+{
+  "date": "16-10-2026",
+  "fx": [
+    {
+      "buy": 4460.0,
+      "code": "USD",
+      "name": "United State",
+      "sell": 4565.0
+    },
+    {
+      "buy": 5025.0,
+      "code": "EUR",
+      "name": "European Union",
+      "sell": 5125.0
+    },
+    {
+      "buy": 3505.0,
+      "code": "SGD",
+      "name": "Singapore",
+      "sell": 3570.0
+    },
+    {
+      "buy": 1097.68,
+      "code": "MYR",
+      "name": "Malaysia",
+      "sell": 1117.92
+    },
+    {
+      "buy": 675.18,
+      "code": "CNY",
+      "name": "China",
+      "sell": 686.37
+    },
+    {
+      "buy": 133.84,
+      "code": "THB",
+      "name": "Thailand",
+      "sell": 137.08
+    },
+    {
+      "buy": 28.54,
+      "code": "JPY",
+      "name": "Japan",
+      "sell": 29.04
+    }
+  ],
+  "note": "16-10-2026 Evening board (MMExch updated 06:59 PM Yangon), transcribed from the owner's MMExch app screenshots (FX + gold pages). Cross-checks: 'Money Changer & Exchange - Myanmar' 16.10.2026 board (USD buy 4550/sell 4650, EUR 5020/5120, SGD 3500/3600, MYR 1100/1140, CNY 660/680, THB 133.5/135.5, JPY 28.5/29.5) tracks within about +/-30 Ks on majors; MMExch global gold Current Price 4176.95 USD/oz at 06:59 PM vs spot 4176.9 (thegoldprice.net). MMExch local gold Evening: Old system AKautShwe sell 10,200,000 / buy 10,100,000, 15 PaeYae sell 9,600,000 / buy 9,500,000; New system AKautShwe sell 10,030,000 / buy 9,930,000, 15 PaeYae sell 9,440,000 / buy 9,340,000 (the app computes its gold prices from spot x USD street mid). Change vs published Morning board (buy/sell): USD -70/-65, EUR +15/-25, SGD +20/-10, MYR +3.68/-6.08, CNY +8.18/+0.37, THB +0.51/+0.09, JPY +0.27/0. YGEA MeeLin: MMExch shows 0 (no price published today) - carried forward (0.0).",
+  "prev": {
+    "CNY": {
+      "buy": 667.0,
+      "sell": 686.0
+    },
+    "EUR": {
+      "buy": 5010.0,
+      "sell": 5150.0
+    },
+    "JPY": {
+      "buy": 28.27,
+      "sell": 29.04
+    },
+    "MYR": {
+      "buy": 1094.0,
+      "sell": 1124.0
+    },
+    "SGD": {
+      "buy": 3485.0,
+      "sell": 3580.0
+    },
+    "THB": {
+      "buy": 133.33,
+      "sell": 136.99
+    },
+    "USD": {
+      "buy": 4530.0,
+      "sell": 4630.0
+    }
+  },
+  "session": "Evening",
+  "spot": 4176.9,
+  "spotTime": "07:29 PM",
+  "updated": "06:59 PM",
+  "weekly_close_date": null,
+  "weekly_close_price": null,
+  "weekly_open_date": null,
+  "weekly_open_price": null,
+  "ygea_meelin": 0.0
+}
