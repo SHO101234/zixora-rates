@@ -1,1 +1,87 @@
-{"date": "17-10-2026", "fx": [{"buy": 4500.0, "code": "USD", "name": "United State", "sell": 4600.0}, {"buy": 5010.0, "code": "EUR", "name": "European Union", "sell": 5145.0}, {"buy": 3480.0, "code": "SGD", "name": "Singapore", "sell": 3580.0}, {"buy": 1091.0, "code": "MYR", "name": "Malaysia", "sell": 1121.0}, {"buy": 666.0, "code": "CNY", "name": "China", "sell": 685.0}, {"buy": 133.33, "code": "THB", "name": "Thailand", "sell": 136.99}, {"buy": 28.2, "code": "JPY", "name": "Japan", "sell": 28.97}], "prev": {"CNY": {"buy": 675.18, "sell": 686.37}, "EUR": {"buy": 5025.0, "sell": 5125.0}, "JPY": {"buy": 28.54, "sell": 29.04}, "MYR": {"buy": 1097.68, "sell": 1117.92}, "SGD": {"buy": 3505.0, "sell": 3570.0}, "THB": {"buy": 133.84, "sell": 137.08}, "USD": {"buy": 4460.0, "sell": 4565.0}}, "session": "Morning", "spot": 4166.1, "spotTime": "06:03 PM", "updated": "09:37 AM", "weekly_close_date": null, "weekly_close_price": null, "weekly_open_date": null, "weekly_open_price": null, "ygea_meelin": 7100000, "note": "GOLD-ONLY refresh 18:03 YT 2026-10-17 (18:00 slot): no evening FX board found on gdbprice (last real posts were commentary; only FX board today = 9:15 AM morning board already in file), no FB evening board surfaced. fx/prev/date/session/updated untouched. Spot 4165.42->4166.10 XAU/USD (xauusd-chart-live, as of 10:31 AM UTC 17 Oct 2026 = 17:01 YT; corroborated: goldtracker.ai 4164.76 @09:33 UTC, livegoldprice.net 4165.03, howisgoldtoday 4166.13). ygea_meelin 0.0->7100000 Ks: YGEA reference price published in gdbprice 2:56 pm post (YGEA reference 7100000 ks); same post street gold sell ~10,340,000 / buy ~10,290,000 Ks."}
+{
+  "date": "17-10-2026",
+  "fx": [
+    {
+      "buy": 4500.0,
+      "code": "USD",
+      "name": "United State",
+      "sell": 4600.0
+    },
+    {
+      "buy": 5010.0,
+      "code": "EUR",
+      "name": "European Union",
+      "sell": 5145.0
+    },
+    {
+      "buy": 3480.0,
+      "code": "SGD",
+      "name": "Singapore",
+      "sell": 3580.0
+    },
+    {
+      "buy": 1091.0,
+      "code": "MYR",
+      "name": "Malaysia",
+      "sell": 1121.0
+    },
+    {
+      "buy": 666.0,
+      "code": "CNY",
+      "name": "China",
+      "sell": 685.0
+    },
+    {
+      "buy": 133.33,
+      "code": "THB",
+      "name": "Thailand",
+      "sell": 136.99
+    },
+    {
+      "buy": 28.2,
+      "code": "JPY",
+      "name": "Japan",
+      "sell": 28.97
+    }
+  ],
+  "prev": {
+    "CNY": {
+      "buy": 675.18,
+      "sell": 686.37
+    },
+    "EUR": {
+      "buy": 5025.0,
+      "sell": 5125.0
+    },
+    "JPY": {
+      "buy": 28.54,
+      "sell": 29.04
+    },
+    "MYR": {
+      "buy": 1097.68,
+      "sell": 1117.92
+    },
+    "SGD": {
+      "buy": 3505.0,
+      "sell": 3570.0
+    },
+    "THB": {
+      "buy": 133.84,
+      "sell": 137.08
+    },
+    "USD": {
+      "buy": 4460.0,
+      "sell": 4565.0
+    }
+  },
+  "session": "Morning",
+  "spot": 4166.13,
+  "spotTime": "08:01 PM",
+  "updated": "09:37 AM",
+  "weekly_close_date": null,
+  "weekly_close_price": null,
+  "weekly_open_date": null,
+  "weekly_open_price": null,
+  "ygea_meelin": 7100000,
+  "note": "GOLD-ONLY refresh 20:01 YT 2026-10-17 (20:00 slot, final evening check): no evening FX board found. fx/prev/date/session/updated untouched. Spot 4166.10->4166.13 XAU/USD. ygea_meelin kept 7100000 Ks."
+}
