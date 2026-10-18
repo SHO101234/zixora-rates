@@ -1,7 +1,7 @@
 {
   "date": "18-10-2026",
   "session": "Daily",
-  "updated": "4:53 PM",
+  "updated": "9:03 PM",
   "spot": 4165.42,
   "spotTime": "10:43 AM",
   "fx": [
@@ -12,40 +12,40 @@
       "sell": 4600.0
     },
     {
-      "buy": 5010.0,
+      "buy": 5013.0,
       "code": "EUR",
       "name": "European Union",
-      "sell": 5145.0
+      "sell": 5148.0
     },
     {
-      "buy": 3480.0,
+      "buy": 3478.0,
       "code": "SGD",
       "name": "Singapore",
-      "sell": 3580.0
+      "sell": 3578.0
     },
     {
-      "buy": 1091.0,
+      "buy": 1093.0,
       "code": "MYR",
       "name": "Malaysia",
-      "sell": 1121.0
+      "sell": 1123.0
     },
     {
-      "buy": 666.0,
+      "buy": 663.0,
       "code": "CNY",
       "name": "China",
-      "sell": 685.0
+      "sell": 682.0
     },
     {
-      "buy": 133.33,
+      "buy": 133.53,
       "code": "THB",
       "name": "Thailand",
-      "sell": 136.99
+      "sell": 137.19
     },
     {
-      "buy": 28.2,
+      "buy": 28.1,
       "code": "JPY",
       "name": "Japan",
-      "sell": 28.97
+      "sell": 28.87
     }
   ],
   "prev": {
@@ -79,7 +79,7 @@
     }
   },
   "synthetic": true,
-  "synthetic_note": "18-10: USD 4500/4600 REAL (Money Changer board image 18-10-2026, user-supplied); other FX synthetic ±small deltas vs 17-10 (no source found); spot 4165.42 = morning reading.",
+  "synthetic_note": "18-10: USD 4500/4600 REAL (Money Changer board image 18-10-2026, user-supplied); other FX = 17-10 board with small plays (EUR +3, SGD -2, MYR +2, CNY -3, THB +0.2, JPY -0.1) per owner's no-source-day delta rule; spot 4165.42 = morning reading.",
   "ygea_meelin": 0.0,
   "weekly_open_date": null,
   "weekly_open_price": null,
