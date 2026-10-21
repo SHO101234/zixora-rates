@@ -374,6 +374,33 @@
     "image_url": "",
     "link": "https://github.com/SHO101234/zixora-rates/releases/download/shwezay-v1.3.3/ShweZay_1.3.3.apk"
   },
-  "books_section": false,
-  "books": []
+  "books_section": true,
+  "books": [
+    {
+      "title": "သူတို့အိမ်ရဲ့ အရှုပ်ထုတ်",
+      "cover": "https://archive.org/download/yokepya-book-001/page-01.jpg",
+      "pages": [
+        "https://archive.org/download/yokepya-book-001/page-01.jpg",
+        "https://archive.org/download/yokepya-book-001/page-02.jpg",
+        "https://archive.org/download/yokepya-book-001/page-03.jpg",
+        "https://archive.org/download/yokepya-book-001/page-04.jpg",
+        "https://archive.org/download/yokepya-book-001/page-05.jpg",
+        "https://archive.org/download/yokepya-book-001/page-06.jpg",
+        "https://archive.org/download/yokepya-book-001/page-07.jpg",
+        "https://archive.org/download/yokepya-book-001/page-08.jpg",
+        "https://archive.org/download/yokepya-book-001/page-09.jpg",
+        "https://archive.org/download/yokepya-book-001/page-10.jpg",
+        "https://archive.org/download/yokepya-book-001/page-11.jpg",
+        "https://archive.org/download/yokepya-book-001/page-12.jpg",
+        "https://archive.org/download/yokepya-book-001/page-13.jpg",
+        "https://archive.org/download/yokepya-book-001/page-14.jpg",
+        "https://archive.org/download/yokepya-book-001/page-15.jpg",
+        "https://archive.org/download/yokepya-book-001/page-16.jpg",
+        "https://archive.org/download/yokepya-book-001/page-17.jpg",
+        "https://archive.org/download/yokepya-book-001/page-18.jpg",
+        "https://archive.org/download/yokepya-book-001/page-19.jpg",
+        "https://archive.org/download/yokepya-book-001/page-20.jpg"
+      ]
+    }
+  ]
 }
