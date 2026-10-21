@@ -404,5 +404,6 @@
         "https://archive.org/download/yokepya-book-001/page-20.jpg"
       ]
     }
-  ]
+  ],
+  "theme": {"festival": true, "greeting": "သီတင်းကျွတ် မင်္ဂလာပါ"}
 }
