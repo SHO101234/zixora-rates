@@ -1,5 +1,5 @@
 {
-  "updated": "24-10-2026 20:05",
+  "updated": "25-10-2026 20:05",
   "entries": [
     {
       "date": "14-10-2026",
@@ -493,6 +493,51 @@
           "code": "JPY",
           "buy": 29.19,
           "sell": 29.81
+        }
+      ]
+    },
+    {
+      "date": "25-10-2026",
+      "session": "Daily",
+      "updated": "10:39 AM",
+      "spot": 3996.3,
+      "spotTime": "10:39 AM",
+      "ygea_meelin": 0.0,
+      "fx": [
+        {
+          "code": "USD",
+          "buy": 4597.0,
+          "sell": 4697.0
+        },
+        {
+          "code": "EUR",
+          "buy": 5158.0,
+          "sell": 5274.0
+        },
+        {
+          "code": "SGD",
+          "buy": 3590.0,
+          "sell": 3671.0
+        },
+        {
+          "code": "MYR",
+          "buy": 1129.0,
+          "sell": 1155.0
+        },
+        {
+          "code": "CNY",
+          "buy": 687.0,
+          "sell": 702.0
+        },
+        {
+          "code": "THB",
+          "buy": 137.15,
+          "sell": 140.25
+        },
+        {
+          "code": "JPY",
+          "buy": 29.29,
+          "sell": 29.91
         }
       ]
     }
