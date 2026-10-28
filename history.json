@@ -1,5 +1,5 @@
 {
-  "updated": "25-10-2026 20:05",
+  "updated": "27-10-2026 20:05",
   "entries": [
     {
       "date": "14-10-2026",
@@ -538,6 +538,96 @@
           "code": "JPY",
           "buy": 29.29,
           "sell": 29.91
+        }
+      ]
+    },
+    {
+      "date": "26-10-2026",
+      "session": "Daily",
+      "updated": "10:36 AM",
+      "spot": 3999.7,
+      "spotTime": "10:36 AM",
+      "ygea_meelin": 0.0,
+      "fx": [
+        {
+          "code": "USD",
+          "buy": 4600.0,
+          "sell": 4700.0
+        },
+        {
+          "code": "EUR",
+          "buy": 5162.0,
+          "sell": 5278.0
+        },
+        {
+          "code": "SGD",
+          "buy": 3593.0,
+          "sell": 3674.0
+        },
+        {
+          "code": "MYR",
+          "buy": 1131.0,
+          "sell": 1157.0
+        },
+        {
+          "code": "CNY",
+          "buy": 690.0,
+          "sell": 705.0
+        },
+        {
+          "code": "THB",
+          "buy": 137.3,
+          "sell": 140.4
+        },
+        {
+          "code": "JPY",
+          "buy": 29.39,
+          "sell": 30.01
+        }
+      ]
+    },
+    {
+      "date": "27-10-2026",
+      "session": "Daily",
+      "updated": "10:35 AM",
+      "spot": 4013.2,
+      "spotTime": "10:35 AM",
+      "ygea_meelin": 0.0,
+      "fx": [
+        {
+          "code": "USD",
+          "buy": 4603.0,
+          "sell": 4703.0
+        },
+        {
+          "code": "EUR",
+          "buy": 5166.0,
+          "sell": 5282.0
+        },
+        {
+          "code": "SGD",
+          "buy": 3596.0,
+          "sell": 3677.0
+        },
+        {
+          "code": "MYR",
+          "buy": 1133.0,
+          "sell": 1159.0
+        },
+        {
+          "code": "CNY",
+          "buy": 693.0,
+          "sell": 708.0
+        },
+        {
+          "code": "THB",
+          "buy": 137.5,
+          "sell": 140.6
+        },
+        {
+          "code": "JPY",
+          "buy": 29.49,
+          "sell": 30.11
         }
       ]
     }
