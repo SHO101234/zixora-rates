@@ -1,0 +1,158 @@
+{
+  "date": "08-11-2026",
+  "fx": [
+    {
+      "buy": 4739.0,
+      "code": "USD",
+      "name": "United State",
+      "sell": 4839.0
+    },
+    {
+      "buy": 5321.76,
+      "code": "EUR",
+      "name": "European Union",
+      "sell": 5434.03
+    },
+    {
+      "buy": 3702.84,
+      "code": "SGD",
+      "name": "Singapore",
+      "sell": 3781.03
+    },
+    {
+      "buy": 1156.54,
+      "code": "MYR",
+      "name": "Malaysia",
+      "sell": 1181.11
+    },
+    {
+      "buy": 701.39,
+      "code": "CNY",
+      "name": "China",
+      "sell": 716.39
+    },
+    {
+      "buy": 140.26,
+      "code": "THB",
+      "name": "Thailand",
+      "sell": 143.23
+    },
+    {
+      "buy": 29.71,
+      "code": "JPY",
+      "name": "Japan",
+      "sell": 30.34
+    },
+    {
+      "buy": 1290.0,
+      "code": "AED",
+      "name": "United Arab Emirates",
+      "sell": 1327.0
+    },
+    {
+      "buy": 3295.0,
+      "code": "AUD",
+      "name": "Australia",
+      "sell": 3369.0
+    },
+    {
+      "buy": 3384.0,
+      "code": "CAD",
+      "name": "Canada",
+      "sell": 3479.0
+    },
+    {
+      "buy": 3.51,
+      "code": "KRW",
+      "name": "South Korea",
+      "sell": 3.59
+    },
+    {
+      "buy": 6381.4,
+      "code": "GBP",
+      "name": "United Kingdom",
+      "sell": 6515.98
+    },
+    {
+      "buy": 599.0,
+      "code": "HKD",
+      "name": "Hong Kong",
+      "sell": 612.0
+    },
+    {
+      "buy": 145.0,
+      "code": "TWD",
+      "name": "Taiwan",
+      "sell": 148.0
+    }
+  ],
+  "prev": {
+    "USD": {
+      "buy": 4742.0,
+      "sell": 4842.0
+    },
+    "EUR": {
+      "buy": 5324.76,
+      "sell": 5437.03
+    },
+    "SGD": {
+      "buy": 3705.84,
+      "sell": 3784.03
+    },
+    "MYR": {
+      "buy": 1159.54,
+      "sell": 1184.11
+    },
+    "CNY": {
+      "buy": 704.39,
+      "sell": 719.39
+    },
+    "THB": {
+      "buy": 140.46,
+      "sell": 143.43
+    },
+    "JPY": {
+      "buy": 29.81,
+      "sell": 30.44
+    },
+    "AED": {
+      "buy": 1290.0,
+      "sell": 1327.0
+    },
+    "AUD": {
+      "buy": 3295.0,
+      "sell": 3369.0
+    },
+    "CAD": {
+      "buy": 3384.0,
+      "sell": 3479.0
+    },
+    "KRW": {
+      "buy": 3.52,
+      "sell": 3.6
+    },
+    "GBP": {
+      "buy": 6384.4,
+      "sell": 6518.98
+    },
+    "HKD": {
+      "buy": 599.0,
+      "sell": 612.0
+    },
+    "TWD": {
+      "buy": 145.0,
+      "sell": 148.0
+    }
+  },
+  "session": "Daily",
+  "spot": 4070.59,
+  "spotTime": "10:41 AM",
+  "synthetic": true,
+  "synthetic_note": "SYNTHETIC board 08-11-2026 (no source found). Built from the live file's 07-11-2026 board (itself synthetic, last real board 05-11-2026) with small deltas: USD/EUR/SGD/MYR/CNY/GBP -3 Ks, THB -0.2, JPY -0.1, KRW -0.01 (spreads unchanged); AED/AUD/CAD/HKD/TWD carried unchanged. Spot is REAL (Finnhub XAU/USD 4,070.59, Friday 06 Nov close, market closed Sun; corroborated ~4,068-4,075 across goldprice.com, nowprice.io, goldtoprice.com). ygea_meelin carried at 0.0 (no source published one). Searched: Telegram t.me/s/gdbprice (browser.open + live browser, 4 variants: channel card only, no posts; control t.me/s/telegram loaded fine) and t.me/s/moneychanger_myanmar (contact card only, no posts); facebook-cli feed newsfeed (4 posts, none rates-related); social/web Burmese+English searches x6 (gold/FX converter sites only - 150currency, goldrate.com, marketshost, goldpricez - all spot-derived at ~3,248 or CBM 2,100 MMK/USD, NOT a street board; no YGEA MeeLin price published). SHARP-MOVE FLAG: P2P USD still moving - etcurrency.com observed 08 Nov 02:10 UTC (08:40 Yangon) buy 4,719 / sell 4,849, vs 07 Nov 4,702.5/4,774.5 (buy +16.5, sell +74.5); synthetic USD 4739/4839 sits ~20 Ks ABOVE today's P2P buy and ~10 Ks BELOW its sell - the synthetic board may be stale, treat with extra caution. Gold also down: spot -0.43% Fri close; domestic gold ~103.4 lakh/tical evening Nov 5 (DVB Nov 6). CBM official 2,100 NOT used.",
+  "updated": "10:41 AM",
+  "weekly_close_date": null,
+  "weekly_close_price": null,
+  "weekly_open_date": null,
+  "weekly_open_price": null,
+  "ygea_meelin": 0.0
+}
