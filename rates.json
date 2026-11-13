@@ -1,1 +1,46 @@
-{"date":"12-11-2026","fx":[{"buy":4738.0,"code":"USD","name":"United State","sell":4838.0},{"buy":5315.76,"code":"EUR","name":"European Union","sell":5428.03},{"buy":3696.84,"code":"SGD","name":"Singapore","sell":3775.03},{"buy":1150.54,"code":"MYR","name":"Malaysia","sell":1175.11},{"buy":695.39,"code":"CNY","name":"China","sell":710.39},{"buy":139.46,"code":"THB","name":"Thailand","sell":142.43},{"buy":29.31,"code":"JPY","name":"Japan","sell":29.94},{"buy":1290.0,"code":"AED","name":"United Arab Emirates","sell":1327.0},{"buy":3295.0,"code":"AUD","name":"Australia","sell":3369.0},{"buy":3384.0,"code":"CAD","name":"Canada","sell":3479.0},{"buy":3.47,"code":"KRW","name":"South Korea","sell":3.55},{"buy":6375.4,"code":"GBP","name":"United Kingdom","sell":6509.98},{"buy":599.0,"code":"HKD","name":"Hong Kong","sell":612.0},{"buy":145.0,"code":"TWD","name":"Taiwan","sell":148.0}],"prev":{"USD":{"buy":4733.0,"sell":4833.0},"EUR":{"buy":5318.76,"sell":5431.03},"SGD":{"buy":3699.84,"sell":3778.03},"MYR":{"buy":1153.54,"sell":1178.11},"CNY":{"buy":698.39,"sell":713.39},"THB":{"buy":139.66,"sell":142.63},"JPY":{"buy":29.41,"sell":30.04},"AED":{"buy":1290.0,"sell":1327.0},"AUD":{"buy":3295.0,"sell":3369.0},"CAD":{"buy":3384.0,"sell":3479.0},"KRW":{"buy":3.48,"sell":3.56},"GBP":{"buy":6378.4,"sell":6512.98},"HKD":{"buy":599.0,"sell":612.0},"TWD":{"buy":145.0,"sell":148.0}},"session":"Daily","spot":3987.23,"spotTime":"10:48 AM","synthetic":true,"synthetic_note":"SYNTHETIC board 12-11-2026 (no source found). Built from the live file's 11-11-2026 board (itself synthetic, last real board 05-11-2026) with small deltas: USD +5 Ks, EUR/SGD/MYR/CNY/GBP -3 Ks, THB -0.2, JPY -0.1, KRW -0.01 (spreads unchanged); AED/AUD/CAD/HKD/TWD carried unchanged. Spot is REAL (xauad 3,987.23 as of 10:30 Beijing / 09:00 Yangon; corroborated 3,981.84-3,989.20 across Finnhub, nowprice, goldtoprice, thegoldprice.net, gramrate). ygea_meelin carried at 0.0 (no source published one). Searched: Telegram t.me/s/gdbprice (browser.open + live browser x2 environments - channel card only, posts withheld by Telegram for this channel; controls @telegram/@durov/@BotNews loaded normally) and t.me/s/moneychanger_myanmar (contact card only, no posts); facebook-cli feed newsfeed (4 posts, none rates-related); web searches x8 Burmese+English (gold/FX converter sites only - goldrate.com, goldpricedata.com, goldrate24, forexinvestors at 3,248.12 MMK/USD, marketshost at 2,099.76 - all spot-derived, NOT a street board; no YGEA MeeLin price published; DVB Nov 6 article and Xinhua reference prices are days old). SHARP-MOVE FLAG: gold spot FELL ~1.5% overnight (4,048.94 -> ~3,987; US Oct CPI beat expectations, Dec Fed hike bets rising, USDJPY ~159.9 near 160); P2P USD ROSE sharply - etcurrency.com observed 12 Nov 02:45 UTC (09:15 Yangon) buy 4,766.5 / sell 4,842.5, vs 11 Nov 01:10 UTC buy 4,677.5 / sell 4,794 (buy +89, sell +48.5). USD delta set to +5 (max of band) to follow the rising P2P; synthetic USD 4738/4838 still sits ~28.5 Ks BELOW today's P2P buy and ~4.5 Ks BELOW its sell - treat with extra caution. CBM official 2,100 NOT used.","updated":"10:48 AM","weekly_close_date":null,"weekly_close_price":null,"weekly_open_date":null,"weekly_open_price":null,"ygea_meelin":0.0}
+{
+ "date": "13-11-2026",
+ "fx": [
+  {"buy": 4743.0, "code": "USD", "name": "United State", "sell": 4843.0},
+  {"buy": 5312.76, "code": "EUR", "name": "European Union", "sell": 5425.03},
+  {"buy": 3698.84, "code": "SGD", "name": "Singapore", "sell": 3777.03},
+  {"buy": 1148.54, "code": "MYR", "name": "Malaysia", "sell": 1173.11},
+  {"buy": 692.39, "code": "CNY", "name": "China", "sell": 707.39},
+  {"buy": 139.26, "code": "THB", "name": "Thailand", "sell": 142.23},
+  {"buy": 29.21, "code": "JPY", "name": "Japan", "sell": 29.84},
+  {"buy": 1290.0, "code": "AED", "name": "United Arab Emirates", "sell": 1327.0},
+  {"buy": 3295.0, "code": "AUD", "name": "Australia", "sell": 3369.0},
+  {"buy": 3384.0, "code": "CAD", "name": "Canada", "sell": 3479.0},
+  {"buy": 3.46, "code": "KRW", "name": "South Korea", "sell": 3.54},
+  {"buy": 6372.4, "code": "GBP", "name": "United Kingdom", "sell": 6506.98},
+  {"buy": 599.0, "code": "HKD", "name": "Hong Kong", "sell": 612.0},
+  {"buy": 145.0, "code": "TWD", "name": "Taiwan", "sell": 148.0}
+ ],
+ "prev": {
+  "USD": {"buy": 4738.0, "sell": 4838.0},
+  "EUR": {"buy": 5315.76, "sell": 5428.03},
+  "SGD": {"buy": 3696.84, "sell": 3775.03},
+  "MYR": {"buy": 1150.54, "sell": 1175.11},
+  "CNY": {"buy": 695.39, "sell": 710.39},
+  "THB": {"buy": 139.46, "sell": 142.43},
+  "JPY": {"buy": 29.31, "sell": 29.94},
+  "AED": {"buy": 1290.0, "sell": 1327.0},
+  "AUD": {"buy": 3295.0, "sell": 3369.0},
+  "CAD": {"buy": 3384.0, "sell": 3479.0},
+  "KRW": {"buy": 3.47, "sell": 3.55},
+  "GBP": {"buy": 6375.4, "sell": 6509.98},
+  "HKD": {"buy": 599.0, "sell": 612.0},
+  "TWD": {"buy": 145.0, "sell": 148.0}
+ },
+ "session": "Daily",
+ "spot": 3918.8,
+ "spotTime": "10:39 AM",
+ "synthetic": true,
+ "synthetic_note": "SYNTHETIC board 13-11-2026 (no source found). Built from the live file's 12-11-2026 board (itself synthetic, last real board 05-11-2026) with small deltas: USD +5 Ks, EUR -3, SGD +2, MYR -2, CNY -3, GBP -3, THB -0.2, JPY -0.1, KRW -0.01 (spreads unchanged); AED/AUD/CAD/HKD/TWD carried unchanged. Spot is REAL (XAU/USD 3,918.80 as of ~10:39 Yangon; corroborated 3,909.12-3,925.24 across forexinvestors, thegoldprice.net, goldprice.com, swiftedge). ygea_meelin carried at 0.0 (no source published one). Searched: Telegram t.me/s/gdbprice (browser.open + live browser, posts withheld by Telegram for this channel; control @telegram loaded normally) and t.me/s/moneychanger_myanmar (contact card only, no posts); facebook-cli feed newsfeed (4 posts, none rates-related); web searches x12 Burmese+English (gold/FX converter sites only - forexinvestors, goldpricedata, goldrate24, 150currency, marketshost, goldpricez, fx-rate.net, ferates Visa rates - all spot-derived or CBM-anchored, NOT a street board; no YGEA MeeLin price published; MMExch app listing only). SHARP-MOVE FLAG: P2P USD ROSE sharply again - etcurrency.com observed 13 Nov 03:10 UTC (09:40 Yangon) buy 4,840.5 / sell 4,919.5, vs 12 Nov 02:45 UTC buy 4,766.5 / sell 4,842.5 (buy +74, sell +77). USD delta set to +5 (max of band) to follow the rising P2P; synthetic USD 4743/4843 still sits ~97.5 Ks BELOW today's P2P buy and ~76.5 Ks BELOW its sell - treat with extra caution. Gold spot FELL ~1.7% overnight (3,987.23 -> ~3,919) then steadied. CBM official 2,100 NOT used.",
+ "updated": "10:39 AM",
+ "weekly_close_date": null,
+ "weekly_close_price": null,
+ "weekly_open_date": null,
+ "weekly_open_price": null,
+ "ygea_meelin": 0.0
+}
