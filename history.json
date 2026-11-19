@@ -1,5 +1,5 @@
 {
-  "updated": "18-11-2026 20:05",
+  "updated": "19-11-2026 20:05",
   "entries": [
     {
       "date": "01-11-2026",
@@ -1603,6 +1603,86 @@
           "code": "JPY",
           "buy": 28.23,
           "sell": 29.0
+        }
+      ]
+    },
+    {
+      "date": "19-11-2026",
+      "session": "Daily",
+      "updated": "10:50 AM",
+      "spot": 3712.31,
+      "spotTime": "10:50 AM",
+      "ygea_meelin": 0.0,
+      "fx": [
+        {
+          "code": "USD",
+          "buy": 5008.0,
+          "sell": 5060.0
+        },
+        {
+          "code": "EUR",
+          "buy": 5314.76,
+          "sell": 5427.03
+        },
+        {
+          "code": "SGD",
+          "buy": 3708.84,
+          "sell": 3787.03
+        },
+        {
+          "code": "MYR",
+          "buy": 1140.54,
+          "sell": 1165.11
+        },
+        {
+          "code": "CNY",
+          "buy": 698.39,
+          "sell": 713.39
+        },
+        {
+          "code": "THB",
+          "buy": 138.26,
+          "sell": 141.23
+        },
+        {
+          "code": "JPY",
+          "buy": 29.61,
+          "sell": 30.24
+        },
+        {
+          "code": "AED",
+          "buy": 1290.0,
+          "sell": 1327.0
+        },
+        {
+          "code": "AUD",
+          "buy": 3295.0,
+          "sell": 3369.0
+        },
+        {
+          "code": "CAD",
+          "buy": 3384.0,
+          "sell": 3479.0
+        },
+        {
+          "code": "KRW",
+          "buy": 3.48,
+          "sell": 3.56
+        },
+        {
+          "code": "GBP",
+          "buy": 6360.4,
+          "sell": 6494.98
+        },
+        {
+          "code": "HKD",
+          "buy": 599.0,
+          "sell": 612.0
+        },
+        {
+          "code": "TWD",
+          "buy": 145.0,
+          "sell": 148.0
         }
       ]
     },
