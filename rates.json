@@ -1,77 +1,77 @@
 {
- "date": "20-11-2026",
+ "date": "21-11-2026",
  "fx": [
   {
-   "buy": 5094.0,
+   "buy": 5040.0,
    "code": "USD",
    "name": "United State",
-   "sell": 5186.0
+   "sell": 5140.0
   },
   {
-   "buy": 5318.76,
+   "buy": 5475.0,
    "code": "EUR",
    "name": "European Union",
-   "sell": 5431.03
+   "sell": 5645.0
   },
   {
-   "buy": 3711.84,
+   "buy": 3850.0,
    "code": "SGD",
    "name": "Singapore",
-   "sell": 3790.03
+   "sell": 3950.0
   },
   {
-   "buy": 1138.54,
+   "buy": 1214.0,
    "code": "MYR",
    "name": "Malaysia",
-   "sell": 1163.11
+   "sell": 1251.0
   },
   {
-   "buy": 701.39,
+   "buy": 748.0,
    "code": "CNY",
    "name": "China",
-   "sell": 716.39
+   "sell": 771.0
   },
   {
-   "buy": 138.06,
+   "buy": 147.06,
    "code": "THB",
    "name": "Thailand",
-   "sell": 141.03
+   "sell": 151.52
   },
   {
-   "buy": 29.71,
+   "buy": 31.51,
    "code": "JPY",
    "name": "Japan",
-   "sell": 30.34
+   "sell": 32.47
   },
   {
-   "buy": 1290.0,
+   "buy": 1360.0,
    "code": "AED",
    "name": "United Arab Emirates",
-   "sell": 1327.0
+   "sell": 1401.0
   },
   {
-   "buy": 3295.0,
+   "buy": 3305.0,
    "code": "AUD",
    "name": "Australia",
-   "sell": 3369.0
+   "sell": 3405.0
   },
   {
-   "buy": 3384.0,
+   "buy": 3480.0,
    "code": "CAD",
    "name": "Canada",
-   "sell": 3479.0
+   "sell": 3590.0
   },
   {
-   "buy": 3.49,
+   "buy": 3.71,
    "code": "KRW",
    "name": "South Korea",
-   "sell": 3.57
+   "sell": 3.82
   },
   {
-   "buy": 6357.4,
+   "buy": 6535.0,
    "code": "GBP",
    "name": "United Kingdom",
-   "sell": 6491.98
+   "sell": 6735.0
   },
   {
    "buy": 599.0,
@@ -89,32 +89,32 @@
  "note": "Board snapshot in MMExch-app format. Publish to the zixora-rates repo (main/rates.json) and the app picks it up on next Refresh. 'prev' = previous session board (drives the change pills); omit it and the app falls back to bundled prev values. 'weekly_*' are optional - the Weekly card is hidden when they are absent/null.",
  "prev": {
   "USD": {
-   "buy": 5008.0,
-   "sell": 5060.0
+   "buy": 5094.0,
+   "sell": 5186.0
   },
   "EUR": {
-   "buy": 5314.76,
-   "sell": 5427.03
+   "buy": 5318.76,
+   "sell": 5431.03
   },
   "SGD": {
-   "buy": 3708.84,
-   "sell": 3787.03
+   "buy": 3711.84,
+   "sell": 3790.03
   },
   "MYR": {
-   "buy": 1140.54,
-   "sell": 1165.11
+   "buy": 1138.54,
+   "sell": 1163.11
   },
   "CNY": {
-   "buy": 698.39,
-   "sell": 713.39
+   "buy": 701.39,
+   "sell": 716.39
   },
   "THB": {
-   "buy": 138.26,
-   "sell": 141.23
+   "buy": 138.06,
+   "sell": 141.03
   },
   "JPY": {
-   "buy": 29.61,
-   "sell": 30.24
+   "buy": 29.71,
+   "sell": 30.34
   },
   "AED": {
    "buy": 1290.0,
@@ -129,12 +129,12 @@
    "sell": 3479.0
   },
   "KRW": {
-   "buy": 3.48,
-   "sell": 3.56
+   "buy": 3.49,
+   "sell": 3.57
   },
   "GBP": {
-   "buy": 6360.4,
-   "sell": 6494.98
+   "buy": 6357.4,
+   "sell": 6491.98
   },
   "HKD": {
    "buy": 599.0,
@@ -146,14 +146,14 @@
   }
  },
  "session": "Daily",
- "spot": 3548.2,
- "spotTime": "10:36 AM",
- "synthetic": true,
- "synthetic_note": "SYNTHETIC board 20-11-2026 (no full sourced board found) - SHARP-MOVE DAY, extra prominence: gold fell ~4% overnight (spot 3,712.31 -> 3,548.20) and USD P2P is up +1.27% in 24h (ETCurrency). USD is ANCHORED to ETCurrency's fresh timestamped P2P observation (buy 5,094 / sell 5,186, observed 2026-11-20 04:05 UTC / 10:35 Yangon) - buy +86 / sell +126 vs yesterday's board, NOT a small delta; spread widened to 92 (1.81%). An earlier ETCurrency observation today (02:40 UTC) showed 5,080/5,298 with an anomalous 218 spread - superseded by the fresher 04:05 UTC observation. Cash street may run higher still. Other majors are small deltas from the live 19-11-2026 board (itself synthetic, last real board 05-11-2026): EUR +4, SGD +3, MYR -2, CNY +3, GBP -3, THB -0.2, JPY +0.1, KRW +0.01 (spreads unchanged); AED/AUD/CAD/HKD/TWD carried unchanged. Spot is REAL (XAU/USD 3,548.20 gold-api.com live 04:06:05Z; corroborated 3,538.89 arincen.com 03:02Z, 3,524.95 orbex.com 03:15Z, ~3,535-3,559 thegoldprice.net). ygea_meelin carried at 0.0 (no source published one). Searched: Telegram t.me/s/gdbprice via curl AND browser.open (channel card only, 45,114 subscribers, no posts readable) and t.me/s/moneychanger_myanmar (personal contact card, not a channel); facebook-cli newsfeed (4 posts, none a rates board); web searches x5 Burmese+English (DVB article is 18 Nov, yesterday's figures; KyawGyi blog is 18 Nov; only ETCurrency P2P + converter/spot-derived gold prices, no full street board; no YGEA MeeLin price published). CBM official 2,100 NOT used. Treat the non-USD legs as estimates until a real board is found.",
- "updated": "10:35 AM",
+ "spot": 3539.0,
+ "spotTime": "10:09 AM",
+ "synthetic": false,
+ "source_note": "SOURCED board 21-11-2026 - primary: Shwe Zay FB page (@LittleBosse) daily FX graphic dated 21.11.2026, posted 2026-11-20 19:11 Yangon (USD 5040/5140, EUR 5475/5645, GBP 6535/6735, SGD 3850/3950, THB 147.06/151.52, CNY 748/771, MYR 1214/1251, JPY 31.51/32.47, KRW 3.71/3.82, AUD 3305/3405, AED 1360/1401, CAD 3480/3590, INR 53.9/55.53). Corroborated by second independent board: Than Lwin Khet News FB, dated 21.11.2026 Saturday morning, posted 2026-11-20 19:27 Yangon (USD 5080/5180, EUR 5697/5826, SGD 3965/4054, THB 151.42/154.81, CNY 760/777, MYR 1244/1272, JPY 32.14/32.87) - same level, ~1-4% higher. USD also corroborated by ETCurrency P2P 5,062.5 observed 2026-11-21 00:45 UTC (07:15 Yangon). NOTE: large moves vs yesterday's live board (e.g. EUR +156/+214, SGD +138/+160, THB +9.00/+10.49) are vs a SYNTHETIC baseline whose non-USD legs were stale since the last real board 05-11-2026 - not a one-day market jump; cross-rates check out (EUR/USD 1.0968 -> EUR ~5,528 at USD 5,040). HKD/TWD carried unchanged (not on the Shwe Zay board). Spot is REAL: XAU/USD 3,539.00 (gold-api.com via gramrate.com, 03:39 UTC = 10:09 Yangon; corroborated Finnhub 3,538.19, goldprice.com 3,539.64 at 9:50 PM ET 20 Nov, goldcurrentprice 3,539.00 at 02:38 UTC). Gold still in sharp selloff: -2.4% on 20 Nov, -8.8% over 5 days. ygea_meelin = 6,950,000 (YGEA official market reference price per kyat-tha for 21.11.2026, YGEA FB post 2026-11-20 18:17 Yangon; down from 7,000,000 on 20 Nov - labelled reference price, not explicitly a selling price). CBM official 2,100 NOT used. Telegram t.me/s/gdbprice: channel card only, no posts readable; t.me/s/moneychanger_myanmar: personal contact card, not a channel. facebook-cli newsfeed: 4 posts, none a rates board.",
+ "updated": "07:11 PM",
  "weekly_close_date": null,
  "weekly_close_price": null,
  "weekly_open_date": null,
  "weekly_open_price": null,
- "ygea_meelin": 0.0
+ "ygea_meelin": 6950000.0
 }
