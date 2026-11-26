@@ -1,1 +1,88 @@
-{"date":"25-11-2026","fx":[{"buy":5220.0,"code":"USD","name":"United State","sell":5320.0},{"buy":5731.0,"code":"EUR","name":"European Union","sell":5864.0},{"buy":4048.0,"code":"SGD","name":"Singapore","sell":4142.0},{"buy":1271.0,"code":"MYR","name":"Malaysia","sell":1300.0},{"buy":785.0,"code":"CNY","name":"China","sell":804.0},{"buy":154.15,"code":"THB","name":"Thailand","sell":157.72},{"buy":32.83,"code":"JPY","name":"Japan","sell":33.59}],"prev":{"AED":{"buy":1390.0,"sell":1432.0},"AUD":{"buy":3385.0,"sell":3490.0},"CNY":{"buy":766.0,"sell":789.0},"EUR":{"buy":5570.0,"sell":5740.0},"INR":{"buy":54.96,"sell":56.67},"JPY":{"buy":32.14,"sell":33.13},"KRW":{"buy":3.8,"sell":3.92},"MYR":{"buy":1240.0,"sell":1277.0},"SGD":{"buy":3940.0,"sell":4040.0},"THB":{"buy":150.38,"sell":155.04},"USD":{"buy":5140.0,"sell":5240.0}},"session":"Daily","source_note":"SOURCED board 25-11-2026 - primary: FB page Than Lwin Khet News board image for Wednesday morning 25 Nov 2026, posted 2026-11-25 10:05 Yangon. Cross-checked against DVB evening board 24 Nov, ETCurrency parallel mid 5245, and IG @kokooo8287 app screenshots. 7 currencies - AED/AUD/KRW/INR omitted (not on today's board). YGEA MeeLin carried forward 6950000. Spot REAL: XAU/USD 3553.27 at 9:29 AM Yangon.","spot":3553.27,"spotTime":"9:29 AM","synthetic":false,"updated":"10:05 AM","ygea_meelin":6950000.0}
+{
+  "date": "26-11-2026",
+  "session": "Daily",
+  "updated": "9:26 AM",
+  "fx": [
+    {
+      "code": "USD",
+      "name": "United State",
+      "buy": 5320.0,
+      "sell": 5420.0
+    },
+    {
+      "code": "EUR",
+      "name": "European Union",
+      "buy": 5780.0,
+      "sell": 5965.0
+    },
+    {
+      "code": "SGD",
+      "name": "Singapore",
+      "buy": 4080.0,
+      "sell": 4180.0
+    },
+    {
+      "code": "MYR",
+      "name": "Malaysia",
+      "buy": 1279.0,
+      "sell": 1320.0
+    },
+    {
+      "code": "CNY",
+      "name": "China",
+      "buy": 791.0,
+      "sell": 816.0
+    },
+    {
+      "code": "THB",
+      "name": "Thailand",
+      "buy": 155.04,
+      "sell": 160.0
+    },
+    {
+      "code": "JPY",
+      "name": "Japan",
+      "buy": 33.13,
+      "sell": 34.19
+    }
+  ],
+  "prev": {
+    "USD": {
+      "buy": 5220.0,
+      "sell": 5320.0
+    },
+    "EUR": {
+      "buy": 5731.0,
+      "sell": 5864.0
+    },
+    "SGD": {
+      "buy": 4048.0,
+      "sell": 4142.0
+    },
+    "MYR": {
+      "buy": 1271.0,
+      "sell": 1300.0
+    },
+    "CNY": {
+      "buy": 785.0,
+      "sell": 804.0
+    },
+    "THB": {
+      "buy": 154.15,
+      "sell": 157.72
+    },
+    "JPY": {
+      "buy": 32.83,
+      "sell": 33.59
+    }
+  },
+  "spot": 3585.18,
+  "spotTime": "9:35 AM",
+  "ygea_meelin": 6950000.0,
+  "weekly_open_date": null,
+  "weekly_open_price": null,
+  "weekly_close_date": null,
+  "weekly_close_price": null,
+  "synthetic": false,
+  "source_note": "SOURCED board 26-11-2026 - primary: Myanmar Knowledge Hub blog morning board, prices as of ~9:26 AM Yangon 26 Nov 2026 (http://myanmarknowledgehub.blogspot.com/2026/11/blog-post_661.html). Cross-checked: DVB reports USD above 5,300 (burmese.dvb.no/post/800719 and DVB 7am news 26 Nov); spot-derived gold sites (goldzag/goldrate/todaygoldrates) show world gold ~$3,562-3,599, up on the day. SHARP-MOVE DAY: gold +80,000 Ks (16-pe old sell 10,360,000), USD +100. Telegram boards t.me/s/gdbprice and t.me/s/moneychanger_myanmar could NOT be read today - both redirect to channel landing pages with no post feed (tried browser text fetch, curl, and live browser). YGEA MeeLin not published on the blog board - carried forward 6950000. Spot REAL: XAU/USD 3585.18 at 9:35 AM Yangon (goldprice.com; Orbex 3584.97 at 9:34 AM corroborates)."
+}
